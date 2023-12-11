@@ -1,6 +1,3 @@
-# generate_random_key
-Vamos documentar a função `generate_random_key` no formato Markdown para o README.md:
-
 # Função para Gerar Chave Aleatória
 
 Esta função PL/SQL, `generate_random_key`, é projetada para gerar uma chave aleatória alfanumérica. A chave gerada possui um comprimento de 20 caracteres e inclui letras maiúsculas, minúsculas e dígitos.
